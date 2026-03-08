@@ -217,13 +217,8 @@ Excel | Raw data source |
 
 # 📷 Dashboard Preview
 
-Add dashboard screenshots here.
-
-Example:
-
 ```
-![Dashboard Overview](images/dashboard_overview.png)
-![Regional Analysis](images/regional_analysis.png)
+NHS_Readmission_Report.pdf
 ```
 
 ---
