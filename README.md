@@ -230,22 +230,7 @@ NHS_Readmission_Report.pdf
 3️⃣ Explore the dashboard using slicers and filters  
 4️⃣ Analyze national, regional, and socioeconomic trends
 
----
 
-# 📁 Repository Structure
-
-```
-NHS-Readmissions-Dashboard
-│
-├── README.md
-├── NHS_Readmission_Dashboard.pbix
-├── data
-│   └── NHS_readmission_dataset.xlsx
-├── images
-│   ├── dashboard_overview.png
-│   ├── regional_analysis.png
-│   └── deprivation_analysis.png
-```
 
 ---
 
@@ -260,5 +245,6 @@ NHS-Readmissions-Dashboard
 
 # 👨‍💻 Author
 
+Ajay Kumar
 Data Analytics Portfolio Project  
 Built to demonstrate **Power BI, DAX, Python visualization, and healthcare analytics skills**.
